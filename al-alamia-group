@@ -1,0 +1,7 @@
+echo "# al-alamia-group" >> README.md
+git init
+git add README.md
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/hazemproooo5-boop/al-alamia-group.git
+git push -u origin main
